@@ -13,7 +13,7 @@
     <native.maven.plugin.version>0.10.0</native.maven.plugin.version>
     <maven.compiler.source>21</maven.compiler.source>
     <maven.compiler.target>21</maven.compiler.target>
-    <imageName>rinhaBackend</imageName>
+    <imageName>proxy</imageName>
     <mainClass>io.gasparbarancelli.Proxy</mainClass>
   </properties>
   <dependencies>
